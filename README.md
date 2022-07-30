@@ -3,7 +3,7 @@
 ## Dello stesso autore
 
 ### Disponibili su Amazon
-* [https://www.amazon.it/dp/B0B4GFBB6B](Come Sopravvivere alle Soft Skills)
+* [Come Sopravvivere alle Soft Skills](https://www.amazon.it/dp/B0B4GFBB6B)
 
 ### Disponibili su richiesta
 * Manuale di Programmazione Cinematografica (volume 1-4)
