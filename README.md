@@ -10,6 +10,8 @@
 
 ### Di prossima pubblicazione
 * Il Manuale del Manager Inconsapevole
+* Le Cirque du Grotesque
 * Vorrei essere un Terrapiattista
 * Il Diario che non ti aspetti
 * Il Dizionario delle Parole Difficili
+* Il Dizionario delle Parolacce
