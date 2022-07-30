@@ -1,2 +1,9 @@
 # notedellautore
-landing page for published books
+
+Dello stesso autore
+
+* Come Sopravvivere alle Soft Skills
+* Vorrei essere un Terrapiattista
+* Il Diario che non ti aspetti
+* Il Dizionario delle Parole Difficili
+* Manuale di Programmazione Cinematografica
