@@ -6,7 +6,7 @@
 * [Come Sopravvivere alle Soft Skills](https://www.amazon.it/dp/B0B4GFBB6B)
 
 #### In preparazione
-* Il Libro delle Risposte Demotivanti
+* Le Regole del Demotivare
 
 ### Disponibili su richiesta
 * Manuale di Programmazione Cinematografica (volume 1-4)
