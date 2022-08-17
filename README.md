@@ -6,7 +6,7 @@
 * [Come Sopravvivere alle Soft Skills](https://www.amazon.it/dp/B0B4GFBB6B)
 
 #### In preparazione
-* Le Regole del Demotivare
+* Piccolo Dizionario delle Parole Improbabili
 
 ### Disponibili su richiesta
 * Manuale di Programmazione Cinematografica (volume 1-4)
@@ -16,5 +16,4 @@
 * Le Cirque du Grotesque
 * Vorrei essere un Terrapiattista
 * Il Diario che non ti aspetti
-* Il Dizionario delle Parole Difficili
 * Il Dizionario delle Parolacce
