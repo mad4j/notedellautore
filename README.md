@@ -15,5 +15,3 @@
 * Il Manuale del Manager Inconsapevole
 * Le Cirque du Grotesque
 * Vorrei essere un Terrapiattista
-* Il Diario che non ti aspetti
-* Il Dizionario delle Parolacce
