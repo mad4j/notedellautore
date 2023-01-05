@@ -1,17 +1,16 @@
-# notedellautore
+# Note dell'Autore
 
 ## Dello stesso autore
 
 ### Disponibili su Amazon
 * [Come Sopravvivere alle Soft Skills](https://www.amazon.it/dp/B0B4GFBB6B)
+* Piccolo Dizionario delle Parole Improbabili
 
 #### In preparazione
-* Piccolo Dizionario delle Parole Improbabili
+* Filastrocche al Volante
 
 ### Disponibili su richiesta
 * Manuale di Programmazione Cinematografica (volume 1-4)
 
-### Di prossima pubblicazione
-* Il Manuale del Manager Inconsapevole
-* Le Cirque du Grotesque
-* Vorrei essere un Terrapiattista
+### Idee nel cassetto
+* Volevo essere un Terrapiattista
