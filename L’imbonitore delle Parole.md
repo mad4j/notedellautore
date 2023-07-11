@@ -23,5 +23,5 @@ Siate curiosi, siate avventurosi, siate affamati di nuove esperienze (cit.).
 Il Dizionario è il vostro compagno di viaggio, pronto a svelare i segreti delle Parole e a trasformare
 il vostro ragionare in un'opera d'arte.
 
-Preparatevi a scoprire un tesoro di significati, perché nel Dizionario, le parole prendono una vita…
+Preparatevi a scoprire un tesoro di significati, perché nel Dizionario, le parole prendono vita…
 quanto mai inaspettata.
