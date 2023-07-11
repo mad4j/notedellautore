@@ -15,7 +15,7 @@ Potrete esplorare le profondità dei vocaboli, sco-prire le origini misteriose, 
 connotazioni nascoste.
 Dalla semplice definizione all'incanto della poesia, dal potere evocativo di una metafora all'essenza
 cristallina di una frase ben formata. Il Dizionario vi condurrà in un viag-gio senza tempo attraverso
-i luoghi meno cono-sciuti del Linguaggio.
+i luoghi meno conosciuti del Linguaggio.
 
 Vi invito ad aprire le sue pagine come si aprirebbe la porta socchiusa di una toilette in un autogrill
 su una provinciale.
