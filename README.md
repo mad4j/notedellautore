@@ -4,9 +4,8 @@
 
 ### Disponibili su Amazon
 * [Come Sopravvivere alle Soft Skills](https://www.amazon.it/dp/B0B4GFBB6B)
-* [Piccolo Dizionario delle Parole Improbabili](https://www.amazon.it/dp/B0BRM14GSQ) 
-
-
+* [Piccolo Dizionario delle Parole Improbabili](https://www.amazon.it/dp/B0BRM14GSQ)
+* [LImbonitore delle Parole](./LImbonitore delle Parole.md)
 
 #### In preparazione
 * Filastrocche al Volante
